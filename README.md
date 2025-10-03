@@ -22,17 +22,12 @@ Pertama membuat file `lab2_css_dasar.html` berisi struktur dasar HTML yang terdi
 CSS internal ditulis di bagian `<head>` menggunakan tag `<style>`.  
 Di sini saya mengatur tampilan body, header, dan h1.
 
-📸 Screenshot:  
-![Step 2](https://raw.githubusercontent.com/MuhammadArkham/Foto/87c21993aa5405365df3b656f81863e6c129b99e/Screenshot%202025-10-03%20143843.png)
-
----
 
 ### 3. Menambahkan Inline CSS
 Inline CSS ditulis langsung pada elemen HTML melalui atribut `style`.  
 Saya menambahkan inline CSS pada paragraf untuk mengatur warna dan posisi teks.
 
-📸 Screenshot:  
-![Step 3](ss_step3_inline.png)
+
 
 ---
 
@@ -40,18 +35,12 @@ Saya menambahkan inline CSS pada paragraf untuk mengatur warna dan posisi teks.
 Langkah berikutnya membuat file `style_eksternal.css` kemudian dihubungkan ke file HTML dengan tag `<link>`.  
 CSS eksternal ini digunakan untuk mengatur tampilan navigasi.
 
-📸 Screenshot:  
-![Step 4](ss_step4_external.png)
-
 ---
 
 ### 5. Menambahkan ID dan Class Selector
 Terakhir, menambahkan selector ID (`#intro`) dan Class (`.button`, `.btn-primary`) untuk memberi style pada bagian konten dan tombol.
 
-📸 Screenshot:  
-![Step 5](ss_step5_selector.png)
 
----
 
 ## Pertanyaan dan Jawaban
 
