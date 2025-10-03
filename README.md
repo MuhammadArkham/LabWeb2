@@ -14,7 +14,7 @@
 Pertama membuat file `lab2_css_dasar.html` berisi struktur dasar HTML yang terdiri dari header, navigasi, dan konten.
 
 📸 Screenshot:  
-![Step 1](ss_step1_html.png)
+![Step 1](https://raw.githubusercontent.com/MuhammadArkham/Foto/87c21993aa5405365df3b656f81863e6c129b99e/Screenshot%202025-10-03%20143737.png)
 
 ---
 
@@ -23,7 +23,7 @@ CSS internal ditulis di bagian `<head>` menggunakan tag `<style>`.
 Di sini saya mengatur tampilan body, header, dan h1.
 
 📸 Screenshot:  
-![Step 2](ss_step2_internal.png)
+![Step 2](https://raw.githubusercontent.com/MuhammadArkham/Foto/87c21993aa5405365df3b656f81863e6c129b99e/Screenshot%202025-10-03%20143843.png)
 
 ---
 
@@ -77,17 +77,5 @@ Jika sebuah elemen memiliki ID dan Class sekaligus, maka CSS ID yang dipakai kar
 
 ---
 
-## Kesimpulan
-Dari praktikum ini saya belajar bahwa CSS bisa ditulis dalam tiga cara, yaitu internal, inline, dan eksternal.  
-Selector berfungsi untuk memilih elemen tertentu agar lebih mudah diatur tampilannya.  
-Selain itu, saya juga memahami urutan prioritas CSS: Inline > ID > Class > Elemen.  
 
 ---
-
-## Laporan Praktikum
-1. Membuat repository GitHub dengan nama **Lab2Web**.  
-2. Mengerjakan semua latihan sesuai langkah di modul.  
-3. Menyimpan screenshot dari setiap percobaan.  
-4. Membuat file README.md berisi penjelasan dan screenshot.  
-5. Commit dan push hasil ke repository.  
-6. Mengirim URL repository ke e-learning ecampus.  
